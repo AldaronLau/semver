@@ -1,4 +1,4 @@
-# Plop Grizzly's Guide to SemVer
+# A Guide to SemVer
 Quickly and easily learn all of the rules of semver.  I created this document due to the lack of legible and concise documentation about semver, and to erase all ambiguity.  This document is targeted for Rust programmers, but it could be adapted to other languages too.
 
 # Start a project
